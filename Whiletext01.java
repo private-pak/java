@@ -40,7 +40,7 @@ public class Whiletext01 {
          System.out.println("------------------------------");
          int  e = 10;
          while(e >= 0){
-            System.out.println(--e);
+            System.out.println(--e);//9 8 7 6 --1 0  -1
          }
 
     }

@@ -1,0 +1,18 @@
+pbulic class U
+{
+    public  static void p(byte b){
+        System.out.println(b);
+    }
+    public  static void p(Short b){
+        System.out.println(b);
+    }
+    public  static void p(int b){
+        System.out.println(b);
+    }
+    public  static void p(Long b){
+        System.out.println(b);
+    pbulic stack  void p(char b){
+        System.out.println(b)
+    }
+
+    }

@@ -1,0 +1,41 @@
+关于iava语言当中的包机制：
+   1、包又称为paakage，java中引入package这种语法机制主要是为了方便程序的管理。
+     不同功能的类被分门别类放到不同的软件包当中，查找比较方便，管理出较方便，易维护，
+   2、怎么定义paakage呢？
+       		在java源程序的第
+			第一行上编写package语句。
+			paakage只能编写一个语句
+	语法结构：
+		paokage 包名;
+	3、包名的命名规范：
+		公司域名倒序+项目名+模块名+功能名：
+		采用这种方式重名的几率较低。因为 公司域名具有唯一标识
+			例如：
+				com.bjpowernode.oa.user.peple;等等
+	4、包名要求 全部小写，包名也是标识符
+	5、一个包对应一个日录。
+	6、使用了paokage机制之后，应该怎么编译？怎么运行呢？
+	使用了package机制之后，类名不再是Testo1了，类名是：com.bjpowernode.javase.day11.Testo1
+		packagecom.bjpowernode.javase.day11；//4个日录【日录之间使用.隔开】
+		
+	总结
+		面向对象和面向过程的区别
+		面向对象三大特征
+		OOA OOD OOP
+		类和对象的概念
+		类的定义
+		对象的创建和使用
+		JVM内存管理
+		参数传递
+		面向对象的封装性
+		面向对象的维承
+		面向对象的多态
+		this关键字
+		static关键字
+		final关键字
+		访问控制权限修饰符
+		构造函数
+		方法的的重写/覆盖
+		package和import
+		
+				

@@ -92,11 +92,11 @@ public class ListText01 {
 增删改查这几个单词要知道：
 		增：add，save、new
 		
-		删:deLete.drop、remove
+		删: deLete.drop、remove
 		
 		改：update，set，modify
 		
-		查:find，get、query、select
+		查: find，get、query、select
 
  * 
  * 

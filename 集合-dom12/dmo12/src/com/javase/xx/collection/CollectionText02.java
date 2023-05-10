@@ -11,7 +11,7 @@ import java.util.Iterator;
 public class CollectionText02 {
 
 	public static void main(String[] args) {
-		//注意：以下讲解的逼历方式/选代方式，是所有ColLection通用的一种方式。
+		//注意：以下讲解的遍历方式/选代方式，是所有ColLection通用的一种方式。
 		//在Map集合中不能用。在所有的ColLection以及子类中使用。
 		//创建集合对象
 		Collection  c = new ArrayList<>();

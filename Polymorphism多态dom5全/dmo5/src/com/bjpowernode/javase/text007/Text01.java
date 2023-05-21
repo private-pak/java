@@ -14,7 +14,7 @@ public class Text01 {
 
 			3、访问控制权限修饰符可以修饰类、变量、方法...
 			
-			4.当某个数据只细希望子类使用，使用porotected进行修饰
+			4.当某个数据只希望子类使用，使用porotected进行修饰
 			5.修饰符的范围：
 				private < 缺省  < protected <  public
 
